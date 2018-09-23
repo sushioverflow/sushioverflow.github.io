@@ -10,7 +10,7 @@
 
 Hello! We are *SushiOverflow*. This is our team's project site for the [Software Architecture](http://cs.queensu.ca/~ahmed/home/teaching/CISC322/F18/index.html) course at Queen's University, Canada. We will be analysing, understanding, and improving upon the architecture of the open-source [Chromium](https://www.chromium.org/) project that powers the Chrome browser and OS.
 
-The Sushioverflow team: [Alicia Liu](), [Amber Zhang](), [Karishma Daga](http://karishmadaga.com), [Kevin Liu](), [Eunice Choi](https://www.eunicechoi.info/), [Simin Zhang]().
+*The SushiOverflow team*: [Alicia Liu](), [Amber Zhang](), [Karishma Daga](http://karishmadaga.com), [Kevin Liu](), [Eunice Choi](https://www.eunicechoi.info/), [Simin Zhang]().
 
 ### What is Chromium?
 
