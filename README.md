@@ -40,4 +40,7 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 - [Chromium Multi-process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)
 - [The Security Architecture of the Chromium Browser](https://css.csail.mit.edu/6.858/2012/readings/chromium.pdf)
 
-### Comparing Chromium and other browsers
+### Other useful links
+- [Google Chrome pros & cons] (https://turbofuture.com/internet/pros-and-cons-of-google-chrome)
+- [Chrome high CPU assumption when playing a video] (https://www.quora.com/Why-does-Google-Chrome-consume-so-much-CPU-power-when-playing-a-video-or-open-more-than-5-tabs)
+- [FireFox vs Chrome] (https://www.diffen.com/difference/Firefox_vs_Google_Chrome)
