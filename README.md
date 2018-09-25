@@ -17,14 +17,17 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 
 ## Getting Started with Chromium
 
-### History of Chromium
+### 📘 History of Chromium
 - [The Google Chrome browser](https://searchmobilecomputing.techtarget.com/definition/Google-Chrome-browser)
 - [Reasons Chrome is a better browser](https://www.techrrival.com/reasons-chrome-better-browser/)
 - [Google Sandbox based on the flexibility that the multi process provides](https://blog.chromium.org/2008/10/new-approach-to-browser-security-google.html)
 
 
-### For new Chromium Developers
-
+### ✨ For new Chromium Developers
+- [Source Code Documentation](https://chromium.googlesource.com/chromium/src/+/master/docs/README.md)
+- [Source Code](https://chromium.googlesource.com/?format=HTML)
+- [Chromium Blog](https://blog.chromium.org)
+- [Chromium Discussion Groups](https://www.chromium.org/developers/discussion-groups)
 
 ### Chromium Software Architecture
 - [Security Architecture of Chrome](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
@@ -33,6 +36,5 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 - [An Evaluation of the Google Chrome Extension Security Architecture](https://people.eecs.berkeley.edu/~daw/papers/chromeext-usenix12.pdf)
 - [Chromium Multi-process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)
 - [The Security Architecture of the Chromium Browser](https://css.csail.mit.edu/6.858/2012/readings/chromium.pdf)
-- [Google Security Architecture](https://css.csail.mit.edu/6.858/2012/readings/chromium.pdf)
 
 ### Comparing Chromium and other browsers
