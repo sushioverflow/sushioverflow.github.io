@@ -27,11 +27,11 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 
 
 ### Chromium Software Architecture
--[Security Architecture of Chrome](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
--[Chrome Architecture Anaylysis](https://medium.com/@zicodeng/explore-the-magic-behind-google-chrome-c3563dbd2739)
--[Software Architecture of Google](https://www.quora.com/What-is-the-software-architecture-of-Google-Now)
--[An Evaluation of the Google Chrome Extension Security Architecture](https://people.eecs.berkeley.edu/~daw/papers/chromeext-usenix12.pdf)
--[Chromium Multi-process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)
--[The Security Architecture of the Chromium Browser](https://css.csail.mit.edu/6.858/2012/readings/chromium.pdf)
+- [Security Architecture of Chrome](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
+- [Chrome Architecture Anaylysis](https://medium.com/@zicodeng/explore-the-magic-behind-google-chrome-c3563dbd2739)
+- [Software Architecture of Google](https://www.quora.com/What-is-the-software-architecture-of-Google-Now)
+- [An Evaluation of the Google Chrome Extension Security Architecture](https://people.eecs.berkeley.edu/~daw/papers/chromeext-usenix12.pdf)
+- [Chromium Multi-process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)
+- [The Security Architecture of the Chromium Browser](https://css.csail.mit.edu/6.858/2012/readings/chromium.pdf)
 
 ### Comparing Chromium and other browsers
