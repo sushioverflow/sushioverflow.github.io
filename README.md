@@ -40,4 +40,4 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 - [Chromium Multi-process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)
 - [The Security Architecture of the Chromium Browser](https://css.csail.mit.edu/6.858/2012/readings/chromium.pdf)
 
-### Other Helpful Links
+### 🍜 Other Helpful Links
