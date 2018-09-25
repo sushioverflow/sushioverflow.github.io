@@ -12,5 +12,17 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 
 *The SushiOverflow team*: [Alicia Liu](), [Amber Zhang](), [Karishma Daga](http://karishmadaga.com), [Kevin Liu](), [Eunice Choi](https://www.eunicechoi.info/), [Simin Zhang]().
 
-### Getting Started with Chromium
+## Getting Started with Chromium
 
+### History of Chromium
+- [The Google Chrome browser](https://searchmobilecomputing.techtarget.com/definition/Google-Chrome-browser)
+- [Reasons Chrome is a better browser](https://www.techrrival.com/reasons-chrome-better-browser/)
+- [Google Sandbox based on the flexibility that the multi process provides](https://blog.chromium.org/2008/10/new-approach-to-browser-security-google.html)
+
+
+### For new Chromium Developers
+
+
+### Chromium Software Architecture
+
+### Comparing Chromium and other browsers
