@@ -12,9 +12,9 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 
 *The SushiOverflow team*: [Alicia Liu](), [Amber Zhang](), [Karishma Daga](http://karishmadaga.com), [Kevin Liu](), [Eunice Choi](https://www.eunicechoi.info/), [Simin Zhang]().
 
-
-
-
+<code>&nbsp;</code>
+<code>&nbsp;</code>
+<code>&nbsp;</code>
 ## Getting Started with Chromium
 
 ### History of Chromium
