@@ -22,6 +22,9 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 - [Reasons Chrome is a better browser](https://www.techrrival.com/reasons-chrome-better-browser/)
 - [Google Sandbox based on the flexibility that the multi process provides](https://blog.chromium.org/2008/10/new-approach-to-browser-security-google.html)
 
+### Understanding Software Architecture 
+- [What is software architecture] (https://www.ibm.com/developerworks/rational/library/feb06/eeles/index.html)
+- [Definition:Software Architecture] (http://www.nyu.edu/classes/jcf/g22.3033-007/slides/session2/g22_3033_011_c23.pdf)
 
 ### ✨ For new Chromium Developers
 - [Source Code Documentation](https://chromium.googlesource.com/chromium/src/+/master/docs/README.md)
@@ -29,7 +32,7 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 - [Chromium Blog](https://blog.chromium.org)
 - [Chromium Discussion Groups](https://www.chromium.org/developers/discussion-groups)
 
-### 💻 Chromium Software Architecture
+### Chromium Software Architecture
 - [Security Architecture of Chrome](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
 - [Chrome Architecture Anaylysis](https://medium.com/@zicodeng/explore-the-magic-behind-google-chrome-c3563dbd2739)
 - [Software Architecture of Google](https://www.quora.com/What-is-the-software-architecture-of-Google-Now)
