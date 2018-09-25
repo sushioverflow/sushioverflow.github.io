@@ -23,7 +23,7 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 - [Google Sandbox based on the flexibility that the multi process provides](https://blog.chromium.org/2008/10/new-approach-to-browser-security-google.html)
 
 ### Understanding Software Architecture
-- [What is software architecture](https://www.ibm.com/developerworks/rational/library/feb06/eeles/index.html)
+- [What is Software Architecture](https://www.ibm.com/developerworks/rational/library/feb06/eeles/index.html)
 - [Definition:Software Architecture](http://www.nyu.edu/classes/jcf/g22.3033-007/slides/session2/g22_3033_011_c23.pdf)
 
 ### ✨ For new Chromium Developers
