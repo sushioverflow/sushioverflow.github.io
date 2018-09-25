@@ -29,7 +29,7 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 - [Chromium Blog](https://blog.chromium.org)
 - [Chromium Discussion Groups](https://www.chromium.org/developers/discussion-groups)
 
-### Chromium Software Architecture
+### 💻 Chromium Software Architecture
 - [Security Architecture of Chrome](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
 - [Chrome Architecture Anaylysis](https://medium.com/@zicodeng/explore-the-magic-behind-google-chrome-c3563dbd2739)
 - [Software Architecture of Google](https://www.quora.com/What-is-the-software-architecture-of-Google-Now)
