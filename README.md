@@ -43,3 +43,7 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 - [Chromium Multi-process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)
 - [The Security Architecture of the Chromium Browser](https://css.csail.mit.edu/6.858/2012/readings/chromium.pdf)
 
+### 🍙 Other helpful Links
+- [Firefox vs Chrome](https://www.diffen.com/difference/Firefox_vs_Google_Chrome)
+- [Quora Page of Google Design Director](https://www.quora.com/profile/Glen-Murphy)
+- [Chrome Pros and Cons](https://turbofuture.com/internet/pros-and-cons-of-google-chrome)
