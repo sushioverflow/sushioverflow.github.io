@@ -12,6 +12,10 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 
 *The SushiOverflow team*: [Alicia Liu](), [Amber Zhang](https://qianyuamberzhang.github.io/), [Karishma Daga](http://karishmadaga.com), [Kevin Liu](), [Eunice Choi](https://www.eunicechoi.info/), [Simin Zhang]().
 
+## Assignment One: Conceptual Architecture of Chrome
+
+### A1 Slides
+### A1 Report
 
 
 
