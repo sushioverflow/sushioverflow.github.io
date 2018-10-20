@@ -15,7 +15,7 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 ## Assignment One: Conceptual Architecture of Chrome
 
 ### [A1 Slides](https://docs.google.com/presentation/d/1rLQgjnYjA20AsREjyR5vEOCV7YyCiJSgkRTrLvdRjhw/edit?usp=sharing) 
-### A1 Report
+### [A1 Report](https://docs.google.com/document/d/1it9ar4YPbqhWZBYi1Lq9bdcBocMxdNd6KsfTv1e7wRk/edit?usp=sharing)
 
 
 
