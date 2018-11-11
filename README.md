@@ -20,7 +20,7 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 ## Assignment Two: Concrete Architecture of Chrome
 
 ### [A2 Slides](https://docs.google.com/presentation/d/1vCaahh7KWVIoqR4t6RXGVUtxmF3QJcipYpdN55QZNkE/edit?usp=sharing)
-### [A2 Report]() 
+### [A2 Report](https://docs.google.com/document/d/126g8wwkl-S12I7a246FKZCspyOhr2-uKLcRkkDqG9SU/edit?usp=sharing) 
 
 
 
