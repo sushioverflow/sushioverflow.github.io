@@ -24,7 +24,7 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 
 ## Assignment Three: Enhancement of Chrome
 ### [A3 Slides](https://docs.google.com/presentation/d/1jgHgIr2zNXsFDHFuurXVLsnTNxDyTM1-5NWmc5sMYWM/edit?usp=sharing)
-### [A3 Report]()
+### [A3 Report](https://docs.google.com/document/d/1UYmYe8H1sAlapQwjom-xFSAjtGQXz6LXsJ7ueTsiOCU/edit?usp=sharing)
 
 
 
